@@ -1,2 +1,2 @@
 # SQL-injection-lab
-SQL injection lab to perform atwacks
+SQL injection lab to perform attacks
