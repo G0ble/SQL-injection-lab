@@ -29,9 +29,9 @@ To create the table with our desired columns:
 Now to insert the data:
 ```SQL
 -> insert into users(id, username, password) values(1, "admin", "admin123$!");
-																	.
-																	.
-																	.
+				.
+				.
+				.
 ```
 To view the stored data:
 ```SQL
