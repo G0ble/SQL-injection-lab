@@ -16,7 +16,7 @@ To look at the existing databases:
 ```SQL
 -> show databases;
 ```
-To store our data we have to create a new database and we have to select it:
+To store our data we have to create a new database and select it:
 ```SQL
 -> create database ["database_name"];
 -> use ["database_name"];
